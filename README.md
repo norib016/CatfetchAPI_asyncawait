@@ -1,4 +1,4 @@
-# Random Dog Image App
+# Random Cat Image App
 
 A simple web application that fetches and displays random cat images using the cat API and JavaScript's async/await.
 
